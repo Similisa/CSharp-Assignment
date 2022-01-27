@@ -1,0 +1,7 @@
+D:\Zensar\ThirdConsoleProject\ThirdConsoleProject\bin\Debug\ThirdConsoleProject.exe.config
+D:\Zensar\ThirdConsoleProject\ThirdConsoleProject\bin\Debug\ThirdConsoleProject.exe
+D:\Zensar\ThirdConsoleProject\ThirdConsoleProject\bin\Debug\ThirdConsoleProject.pdb
+D:\Zensar\ThirdConsoleProject\ThirdConsoleProject\obj\Debug\ThirdConsoleProject.csprojAssemblyReference.cache
+D:\Zensar\ThirdConsoleProject\ThirdConsoleProject\obj\Debug\ThirdConsoleProject.csproj.CoreCompileInputs.cache
+D:\Zensar\ThirdConsoleProject\ThirdConsoleProject\obj\Debug\ThirdConsoleProject.exe
+D:\Zensar\ThirdConsoleProject\ThirdConsoleProject\obj\Debug\ThirdConsoleProject.pdb

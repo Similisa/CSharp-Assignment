@@ -1,0 +1,7 @@
+D:\Zensar\SecondConsolePrj\SecondConsolePrj\bin\Debug\SecondConsolePrj.exe.config
+D:\Zensar\SecondConsolePrj\SecondConsolePrj\bin\Debug\SecondConsolePrj.exe
+D:\Zensar\SecondConsolePrj\SecondConsolePrj\bin\Debug\SecondConsolePrj.pdb
+D:\Zensar\SecondConsolePrj\SecondConsolePrj\obj\Debug\SecondConsolePrj.csproj.CoreCompileInputs.cache
+D:\Zensar\SecondConsolePrj\SecondConsolePrj\obj\Debug\SecondConsolePrj.exe
+D:\Zensar\SecondConsolePrj\SecondConsolePrj\obj\Debug\SecondConsolePrj.pdb
+D:\Zensar\SecondConsolePrj\SecondConsolePrj\obj\Debug\SecondConsolePrj.csprojAssemblyReference.cache

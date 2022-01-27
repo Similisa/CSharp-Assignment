@@ -1,0 +1,11 @@
+D:\Zensar\SecondConsolePrj\Project2\bin\Debug\Project2.exe.config
+D:\Zensar\SecondConsolePrj\Project2\bin\Debug\Project2.exe
+D:\Zensar\SecondConsolePrj\Project2\bin\Debug\Project2.pdb
+D:\Zensar\SecondConsolePrj\Project2\bin\Debug\SecondConsolePrj.exe
+D:\Zensar\SecondConsolePrj\Project2\bin\Debug\SecondConsolePrj.pdb
+D:\Zensar\SecondConsolePrj\Project2\bin\Debug\SecondConsolePrj.exe.config
+D:\Zensar\SecondConsolePrj\Project2\obj\Debug\Project2.csprojAssemblyReference.cache
+D:\Zensar\SecondConsolePrj\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+D:\Zensar\SecondConsolePrj\Project2\obj\Debug\Project2.csproj.CopyComplete
+D:\Zensar\SecondConsolePrj\Project2\obj\Debug\Project2.exe
+D:\Zensar\SecondConsolePrj\Project2\obj\Debug\Project2.pdb

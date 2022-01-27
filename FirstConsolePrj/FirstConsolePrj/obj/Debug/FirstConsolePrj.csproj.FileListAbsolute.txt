@@ -1,0 +1,2 @@
+D:\Zensar\FirstConsolePrj\FirstConsolePrj\obj\Debug\FirstConsolePrj.csprojAssemblyReference.cache
+D:\Zensar\FirstConsolePrj\FirstConsolePrj\obj\Debug\FirstConsolePrj.csproj.CoreCompileInputs.cache
